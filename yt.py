@@ -420,7 +420,7 @@ class Main:
 			print("    Thanks🥰♥️")
 			exit()
 		elif HUSNAIN in ["1", "01"]:
-			os.system("xdg-open https://youtu.be/gxjhqkJL_h0")
+			os.system("xdg-open https://youtube.com/@husnainbabar786")
 			print("")
 			time.sleep(2.0)
 			print("\033[1;33m    Apna nam type kro")
@@ -1350,3 +1350,4 @@ def Subscraption():
 		Subscraption()        
 Subscraption()
 
+just
